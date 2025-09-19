@@ -1,0 +1,1 @@
+# NoPartialGlobalPlan baseline methods

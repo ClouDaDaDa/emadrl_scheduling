@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Ray/RLlib outputs
+local_realtime_scheduling/Agents/ray_results/
+local_realtime_scheduling/Agents/ray_results/**
+local_realtime_scheduling/BaselineMethods/NonEmbodiedScheduling/ray_results_non_embodied/
+local_realtime_scheduling/BaselineMethods/NonEmbodiedScheduling/ray_results_non_embodied/**
+local_realtime_scheduling/results_data/
+local_realtime_scheduling/Environment/instance_snapshots/
+
+
